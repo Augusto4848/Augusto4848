@@ -35,7 +35,7 @@ Este é o meu GitHub para portfólio. Gosto muito de criar projetos em C# e Unit
   <a href="https://github.com/BLKNeko/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/Augusto4848/Augusto4848/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Augusto4848/Augusto4848/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 Augusto4848/Augusto4848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
