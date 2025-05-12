@@ -1,14 +1,16 @@
-## Olá eu sou Augusto Rodrigues!
+## Olá, eu sou Augusto Rodrigues!
 
-Este é meu GitHub para portifólio, gosto muito de criar projetos em C# e Unity
+Este é o meu GitHub para portfólio. Gosto muito de criar projetos em C# e Unity.
 
-## Esses sao os estatus tirados do meu GitHub principal.
+## Esses são os status retirados do meu GitHub principal.
 
 <div>
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BLKNeko&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
 
+<!--
 <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=BLKNeko&theme=blueberry&hide_border=false" />
+-->
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLKNeko&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
   
